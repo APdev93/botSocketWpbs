@@ -1,0 +1,4 @@
+/node_modules/
+/database/session/
+package-lock.json
+.git/
